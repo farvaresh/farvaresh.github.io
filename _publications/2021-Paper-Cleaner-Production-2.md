@@ -1,0 +1,16 @@
+---
+title: "Competition and cooperation in the sustainable food supply chain with a focus on social issues"
+collection: publications
+category: manuscripts
+permalink: /publication/2021-2-20-Cleaner-Production-Competition-cooperation
+excerpt: 'In this study, three pricing models are presented for a supply chain, including two suppliers and one manufacturer. Consumer health and the reduction of GHG emissions are investigated as the social and environmental objectives, respectively, besides the supply chain members’ profit.'
+date: 2021-2-20
+venue: 'Journal of Cleaner Production'
+slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://doi.org/10.1016/j.jclepro.2020.124872'
+citation: 'Manteghi, Y., Arkat, J., Mahmoodi, A., Farvaresh, H. (2021). &quot;Competition and cooperation in the sustainable food supply chain with a focus on social issues.&quot; <i>Journal of Cleaner Production</i>. 285, 124872.'
+---
+
+**Abstract:** Additives are added to raw materials and products with purposes such as reduction of costs, improvement of physical appearance and taste, and enhancement of shelf life. Overuse of additives causes health problems for consumers and hence supply chain members must consider social consequences besides the economic goals in the specification of the amount of additives. Furthermore, the production and delivery operations in the food supply chain constitute one of the leading causes of energy consumption and greenhouse gas (GHG) emissions. The reduction of GHG emissions increases cost, and a balance, therefore, needs to be established between economic and environmental goals. In this study, three pricing models are presented for a supply chain, including two suppliers and one manufacturer. Consumer health and the reduction of GHG emissions are investigated as the social and environmental objectives, respectively, besides the supply chain members’ profit. While a centralized structure is considered in the first model, the second and third models have decentralized structures. Unlike in the second model, where all the supply chain members compete with each other, an alliance is considered in the third model between the first supplier and the manufacturer, competing with the other supplier. The equilibrium decisions are derived for each scenario using the game-theoretic approach. Moreover, the impact of the supply chain structure on the carbon emissions, amount of additives, and agents’ profits are investigated. A number of interesting insights have been revealed from these analyses. For example, it is demonstrated that the government could set penalties for the addition of additives in specific ranges, as a result of which the supply chain members would prefer not to add to additives. A numerical analysis is carried out to present more insights into the effects of the main parameters. We found that the more customer demand depends on price, the less the manufacturer will be motivated to reduce GHG emissions. GHG emissions increase as government penalty for endangering consumer health rises. Alliances between supply chain members are economically beneficial when product demand is dependent more strictly on the reduction of GHG emissions.
+
+Read the full article at: [https://doi.org/10.1016/j.jclepro.2020.124872](https://doi.org/10.1016/j.jclepro.2020.124872)
