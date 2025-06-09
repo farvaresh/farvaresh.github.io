@@ -1,5 +1,5 @@
 ---
-title: "•	Multivariate Data Analysis"
+title: "Multivariate Data Analysis"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/MDA
