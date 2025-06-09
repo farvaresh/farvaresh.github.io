@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Kurdistan, Department of Industrial Engineering"
-date: 2016-2025
+date: 2025-01-01
 location: "Sanandaj, Kurdistan, Iran"
 ---
 
