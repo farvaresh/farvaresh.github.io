@@ -1,7 +1,7 @@
 ---
 title: "Competitive pricing of complementary telecommunication services with subscriber churn in a duopoly"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-01-01-telecom-pricing-churn
 excerpt: 'This paper presents a competitive pricing model for complementary telecom services, considering subscriber churn in a duopoly market.'
 date: 2024-01-01
