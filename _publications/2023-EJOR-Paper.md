@@ -3,7 +3,7 @@ title: "Carrier Collaboration with the Simultaneous Presence of Transferable and
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-23-Carrier-Collaboration-EJOR
-excerpt: 'This paper presents a competitive pricing model for complementary telecom services, considering subscriber churn in a duopoly market.'
+excerpt: 'his paper deals with a problem in collaborative logistics which arises when a number of carriers, having both transferable and non-transferable utilities, form a coalition.'
 date: 2023-01-23
 venue: 'European Journal of Operational Research'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
