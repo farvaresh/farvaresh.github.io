@@ -3,7 +3,7 @@ title: "Collaborative advertising in a two-level supply chain with limited produ
 collection: publications
 category: manuscripts
 permalink: /publication/2022-12-01-Cooperative-Advertising
-excerpt: 'This paper presents a competitive pricing model for complementary telecom services, considering subscriber churn in a duopoly market.'
+excerpt: 'This paper presents a cooperative game theoretic model for cooperative advertising in a supply chain having two retailers and a manufacturer.'
 date: 2022-12-01
 venue: 'Journal of Industrial Engineering Research in Production Systems'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
